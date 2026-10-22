@@ -135,3 +135,9 @@ Javadoc documentation was prepared for the `Category` class to describe its purp
 ## Author
 
 Developed as an academic project.
+
+<img width="277" height="217" alt="image" src="https://github.com/user-attachments/assets/0e7e04f3-8deb-47f0-9d9c-31f392bb0eb1" />
+<img width="273" height="215" alt="image" src="https://github.com/user-attachments/assets/7f429160-e7b5-4c46-9309-5be560e29048" />
+<img width="273" height="215" alt="image" src="https://github.com/user-attachments/assets/983ffa4c-46a9-4f9e-b39b-95a15cfd3a0e" />
+<img width="267" height="210" alt="image" src="https://github.com/user-attachments/assets/d033c608-4eb6-48c9-97c5-74d435237a82" />
+
